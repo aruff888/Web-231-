@@ -4,8 +4,8 @@
 
       Tipton Turbines
       Baseball Schedule Data
-      Author: 
-      Date:   
+      Author: Amanda Ruff
+      Date:   09/02/25
 
       Filename: schedule.js
 */
